@@ -32,7 +32,7 @@
 		</dependency>
 	
 	</dependencies>
-	<distributionManagement>
+<!--	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
 		    <url>http://13.233.125.37:8081/repository/maven-snapshots/</url>
@@ -43,7 +43,7 @@
 		    <url>http://13.233.125.37:8081/repository/maven-releases/</url>
 		</repository>
   	</distributionManagement>
-	
+-->	
 <build>
     <plugins>
         <plugin>
